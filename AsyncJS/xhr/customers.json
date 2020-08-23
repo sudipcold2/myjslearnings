@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sudip Ghosh",
+        "company": "123 Designs",
+        "phone": "123567123"
+    },
+    {
+        "id": 2,
+        "name": "Rimi Bera",
+        "company": "lexmark",
+        "phone": "45754765"
+    },
+    {
+        "id": 3,
+        "name": "Souvik Debanth",
+        "company": "TCS",
+        "phone": "65464"
+    }
+]
