@@ -1,4 +1,4 @@
-This is my Javascript learning notes repo.
+# This is my Javascript learning notes repo.
 
 It has
 
